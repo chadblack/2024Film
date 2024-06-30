@@ -2,12 +2,12 @@
 title: Course Info 
 ---
 
-### History of Latin American Sport
+### Latin American History at the HORROR Movies
 
-HILA 484   
-TR 12:55-2:10   
-BUE 476   
-Spring 2023  
+HILA/LAC 370   
+TR   9:45-11:00
+HSS 107   
+Fall 2024  
 
 **Prof. Chad Black**
 
