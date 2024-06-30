@@ -1,10 +1,10 @@
-site_name: HILA/LAC 484 History of Latin American Sport
-site_url: https://chadblack.net/2023SPORT/
+site_name: HILA/LAC 370 Latin American History at the Horror Movies
+site_url: https://chadblack.net/2024Film/
 site_author: Chad Black
 site_description: A chad_black production
 
 # Copyright
-copyright: Copyright &copy; 2022 Chad Black 
+copyright: Copyright &copy; 2024 Chad Black 
 
 theme:
     custom_dir: docs/overrides
@@ -80,5 +80,5 @@ nav:
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - Approaches to making notes: resources/an approach to making notes.md
-    - Bibliography of Latin American sport: resources/bibliography of latin american sport history.md
+    - Latin American horror films: resources/latin american horror films.md
 
