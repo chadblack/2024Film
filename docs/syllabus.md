@@ -30,16 +30,6 @@ In this class, we will use horror films, fiction, and historical sources as an i
 
 Most films will be in Spanish with English subtitles. The majority of these films are rated R for strong language, violence, and/or sexual content. These topics (sex and violence) convey the realities of contemporary and historical struggles in the region. In class, we will discuss at length themes in the films that go beyond the casual viewer's interpretations. If, however, you feel uncomfortable with these topics, please come speak to me.
 
-### Readings
-
-Students are required to purchase the following texts for this course:
-
-- Sigmund Freud, *On Dreams*.
-- Sigmund Freud, *Civilization & Its Discontents*.
-- You may need a **Shudder** subscription ($5.99/mo), though there is also a free seven-day trial.
-
-Other readings will be provided electronically.
-
 ### Course Requirements
 
 Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These assignments are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals.

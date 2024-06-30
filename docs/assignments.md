@@ -2,7 +2,28 @@
 title: Assignments
 ---
 
-Your grade in this course is based on four assignments:
+## Readings
+
+Students are required to purchase the following texts for this course:
+
+- Sigmund Freud, *On Dreams*.
+- Sigmund Freud, *Civilization & Its Discontents*.
+
+Other readings will be provided electronically.
+
+## Films
+
+We will watch the following films this semester.
+
+1. *La llorona* (2021). Jayro Bustamante (Guatemala)
+2. *El conde* (2023). Pablo Larraín (Chile)
+3. *La huesera* (2022). Michelle Garza Cervera (Mexico)
+4. *Aterrados* (2017). Demián Rugna (Argentina)
+5. *The Pervert's Guide to Cinema* (2006). Sophie Fiennes & Slavoj Žižek.
+6. *The Shining* (1980). Stanley Kubrick.
+7. *Room 237* (2012). Rodney Asher.
+
+## Assignments
 
 ### Reading Memos. (25%)
 
