@@ -42,6 +42,7 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 - *The Untamed* (2017). Amat Escalante.
 - *Tigers are not afraid* (2019). Issa Lopez. 
 - *Nuevo Orden* (2020). Michael Franco. 
+- *Prayers for the Stolen*/*Noche de fuego* (2021). Tatiana Huezo. (On Netflix)
 - Huesera: The Bone Woman (2022). 
 
 ### Uruguay
