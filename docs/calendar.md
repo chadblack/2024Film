@@ -102,20 +102,46 @@ Discussion of the films, the interpretive act, and why *Room 237* is a great exa
 
 ## Week Six: Modernity's Monsters (Sep 24-Sep 26)
 
+How did the emergence of the gordian knot of Capital, Nation, and State change the monstrous? We will consider this question in final preparation for our primary films of the semester. Read these pieces carefully, and try to understand how the authors structure them, and why.
+
 **Tuesday**: Independence and the Fear of Universal Freedom
 
+Reading:  
+
+- Oscar de la Torre, "The well that wept blood: Ghostlore, haunted waterscapes, adn the politics of *Quilombo* Blackness in Amazonia (Brazil)." *American Historical Review* (December 2022): 1635-1658.
 
 **Thursday**: Capital-Nation-State
 
+Reading: 
+
+- Evan Calder Williams, "Plague in the gears," *Combined and uneven apocalypse* (Zero Books, 2011)
+
 ## Week Seven:  La Huesera (Oct 1-Oct 3)
+
 
 **Tuesday**: Gendered Power in Modern Mexico
 
+Readings:
+
+- Elyse Ona Singer, "The past is never dead... Reproductive governance in Modern Mexico," *Lawful Sins: Abortion Rights and Reproductive Governance in Mexico* (Stanford University Press, 2022): 32-60.
+
 **Thursday**: La Huesera Discussion
+
+Trailer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yupd1vBO8FA?si=T7gShErct6nd4jjG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Reviews: [rogerebert.com](https://www.rogerebert.com/reviews/huesera-the-bone-woman-movie-review-2023), [Rotten Tomatoes](https://www.rottentomatoes.com/m/huesera_the_bone_woman/reviews)
+
 
 ## Week Eight: Aterrados (Oct 8-Oct 10)
 
 **Tuesday**: Where Evil Lurks
+
+Reading:
+
+- Jonathan Risner, "Is it there? It's not there. Now it's there.: Spectral dynamics of the last dictatorship in Argentine horror cinema," *Blood circuits: Contemporary Argentine horror cinema* (State University of New York Press, 2018).
 
 **Thursday**: Aterrados Discussion
 
@@ -123,11 +149,23 @@ Discussion of the films, the interpretive act, and why *Room 237* is a great exa
 
 **Tuesday**: Uneven Combined Development
 
+Reading:
+
+- John Chasteen, Chapter 9, *Born in Fire and Blood*.
+
 **Thursday**: Reactionary Crisis between Representation and Profit
+
+Reading:
+
+- John Chasteen, Chapter 10, *Born in Fire and Blood*
 
 ## Week Ten: El Conde (Oct 22-Oct 24)
 
 **Tuesday**: The Libertarian Dream
+
+Reading:
+
+- Peter Winn, "The Pinochet Era," *Victims of the Chilean miracle: Workers and neoliberalism in the Pinochet Era, 1973-2002*. (Duke University Press, 2004): 14-70.
 
 **Thursday**: El Conde Discussion
 
@@ -135,25 +173,29 @@ Discussion of the films, the interpretive act, and why *Room 237* is a great exa
 
 **Tuesday**: Immunity, Impunity, and the Monstrous State in Guatemala
 
+Reading:
+
+- Virginia Garrard-Burnett, "Ríos Montt and the New Guatemala," *Terror in the land of the Holy Spirit: Guatemala under General Efraín Ríos Montt, 1982-1983* (Oxford University Press, 2010).
+
 **Thursday**: Discussion of La Llorona
 
 ## Week Twelve: The Universal and the Particular (Nov 5-Nov 7)
 
-**Tuesday**: Culture, Subsumption, Horror
+**Tuesday**: Election day, no class.
 
-**Thursday**: 
+**Thursday**: Finish your projects.
 
 ## Week Thirteen: Project Presentations (Nov 12-Nov 14)
 
-**Tuesday**:
+**Tuesday**: To be scheduled.
 
-**Thursday**:
+**Thursday**: To be scheduled.
 
 ## Week Fourteen: Project Presentations (Nov 19-Nov 21)
 
-**Tuesday**:
+**Tuesday**: To be scheduled.
 
-**Thursday**:
+**Thursday**: To be scheduled.
 
 ## Week Fifteen: Thanksgiving (Nov 29-Dec 1)
 
@@ -161,5 +203,9 @@ Safe travels. Enjoy your Thanksgiving.
 
 ## Week Sixteen: Denouemont (Dec 3)
 
-**Tuesday**: 
+**Tuesday**: Revisiting the meaning of horror.
+
+Reading: 
+
+- David McNally, "Ugly beauty: Monstrous dreams of utopia," ** 253-
 
