@@ -145,6 +145,13 @@ Reading:
 
 **Thursday**: Aterrados Discussion
 
+Trailer:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUtd_-3ytlc?si=VHhRhRa96Enpt9IR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reviews: [Modern Horrors](https://modernhorrors.com/terrified-is-an-unexpected-unsettling-nightmare-review/), [Rotten Tomatoes](https://www.rottentomatoes.com/m/terrified_2017), 
+
+
 ## Week Nine: Capitalism and the Structures of Antipolitics (Oct 15-Oct 17)
 
 **Tuesday**: Uneven Combined Development
@@ -169,6 +176,12 @@ Reading:
 
 **Thursday**: El Conde Discussion
 
+Trailer:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YGvX7ma7Xnk?si=txVIAnFb-7eVkmXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reviews: [rogerebert.com](https://www.rogerebert.com/reviews/el-conde-movie-review-2023), [Rotten Tomatoes](https://www.rottentomatoes.com/m/el_conde/reviews)
+
+
 ## Week Eleven: La Llorona (Oct 29-Oct 31)
 
 **Tuesday**: Immunity, Impunity, and the Monstrous State in Guatemala
@@ -178,6 +191,11 @@ Reading:
 - Virginia Garrard-Burnett, "Ríos Montt and the New Guatemala," *Terror in the land of the Holy Spirit: Guatemala under General Efraín Ríos Montt, 1982-1983* (Oxford University Press, 2010).
 
 **Thursday**: Discussion of La Llorona
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SVf8in0dj9s?si=rQLN1oOcidDv32x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reviews: [Not Even Past](https://notevenpast.org/film-review-la-llorona-directed-by-jayro-bustamante/), [Rotten Tomatoes](https://www.rottentomatoes.com/m/la_llorona_2019)
+
 
 ## Week Twelve: The Universal and the Particular (Nov 5-Nov 7)
 
