@@ -45,6 +45,7 @@ This week, we will extend our reading method to the question of monsters. It is 
 Readings:
 
 - Martha Few, "Atlantic world monsters: monstrous births and the politics of pregnancy in colonial Guatemala," in Daniella Kostroun and Lisa Vollendorf, eds. *Women, religion, and the Atlantic world (1600-1800)* (University of Toronto Press, 2009): 205-222.
+  
 - Watch:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/paCqiY1jwqc?si=SphCPzt6z3uw_OXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

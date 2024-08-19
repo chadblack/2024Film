@@ -5,24 +5,32 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 
 ### Argentina
 
-- El Vampiro Negro (1953). Roman Vinoly Barreto.
-- Terrified (2018). Demián Rugna. 
-- Luciferina (2018). 
-- Luz (2019). Juan Diego Escobar Alzante (Argentina/Colomia)
-- When Evil Lurks (2023). Demián Rugna.
+- *El Vampiro Negro* (1953). Roman Vinoly Barreto.
+- *Terrified* (2018). Demián Rugna. 
+- *Luciferina* (2018). Gonzalo Calzada. 
+- *Luz* (2019). Juan Diego Escobar Alzante (Argentina/Colombia).
+- *Historia de lo oculto* (2020). Cristian Ponce (Argentina/Mexico).
+- *Azor* (2021). Andreas Fontana (Argentina/France/Switzerland).
+- *When Evil Lurks* (2023). Demián Rugna.
+
+### Brazil
+
+* *Exocrismo negro* (1974). José Mojica Marins.
+* *As Boas Maneiras* (2017). Juliana Rojas.
+* *Bacurau* (2019). Kleber Mendonça and Juliano Dornelles.
 
 ### Chile
 
-- *Santa sangre* (1990). Alejandro Jodorwsky.
-- The Wolf House (2018). Cristobal Leon and Joaquin Cocina.
+- *The Club* (2015). Pablo Larraín.
+- *The Wolf House* (2018). Cristobal Leon and Joaquin Cocina.
 
 ### Colombia
 
-- The Hidden Face (2011)
+- T*he Hidden Face* (2011)
 
 ### Cuba
 
-- Juan of the Dead (2011). Alejandro Brugués.
+- *Juan of the Dead* (2011). Alejandro Brugués.
 
 ### Guatemala
 
@@ -30,20 +38,24 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 
 ### Mexico
 
-- La llorona (1933). Fernando de Fuentes.
-- Phantom of the Monastery (1934). Fernando de Fuentes.
-- El ladron de cadaveres (1957). Fernando Mendez.
-- El escapulario (1968). Servando Gonzalez
-- Even the Wind is Afraid (1968). Carlos Enrique Taboada.
-- The Book of Stone (1969).
-- Poison of the Fairies (1986). Carlos Enrique Taboada.
-- Cronos (1993). Guillermo del Toro.
-- The Similars (2016). Isaac Ezban. 
+- *La llorona* (1933). Fernando de Fuentes.
+- *Phantom of the Monastery* (1934). Fernando de Fuentes.
+- *El ladron de cadaveres* (1957). Fernando Mendez.
+- *El escapulario* (1968). Servando Gonzalez
+- *Even the Wind is Afraid* (1968). Carlos Enrique Taboada.
+- *The Book of Stone* (1969).
+- *The Holy Mountain* (1973). Alejandro Jodorowsky.
+- *Alucarda, la hija de las tinieblas* (1977). Juan Lopez Moctezuma.
+- *Veneno para las hadas* (1984). Carlos Enrique Taboada.
+- *Poison of the Fairies* (1986). Carlos Enrique Taboada.
+- *Santa sangre* (1990). Alejandro Jodorwsky.
+- *Cronos* (1993). Guillermo del Toro.
+- *The Similars* (2016). Isaac Ezban. 
 - *The Untamed* (2017). Amat Escalante.
 - *Tigers are not afraid* (2019). Issa Lopez. 
 - *Nuevo Orden* (2020). Michael Franco. 
 - *Prayers for the Stolen*/*Noche de fuego* (2021). Tatiana Huezo. (On Netflix)
-- Huesera: The Bone Woman (2022). 
+- *Huesera: The Bone Woman* (2022). 
 
 ### Uruguay
 
