@@ -6,6 +6,8 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 ### Argentina
 
 - *El Vampiro Negro* (1953). Roman Vinoly Barreto.
+- *Francesca* (2015). Luciano Onetti.
+- *White Coffin* (2016). Daniel de la Vega.
 - *Terrified* (2018). Demián Rugna. 
 - *Luciferina* (2018). Gonzalo Calzada. 
 - *Luz* (2019). Juan Diego Escobar Alzante (Argentina/Colombia).
@@ -16,6 +18,8 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 ### Brazil
 
 * *Exocrismo negro* (1974). José Mojica Marins.
+* *Through the Shadow* (2015). Walter Lima, Jr.
+* *Our Evil* (2017). Samuel Galli.
 * *As Boas Maneiras* (2017). Juliana Rojas.
 * *Bacurau* (2019). Kleber Mendonça and Juliano Dornelles.
 
@@ -63,6 +67,6 @@ This is an incomplete list of horror/thriller films from Latin America, and a go
 
 ### Venezuela
 
-- The House at the End of Time (2013). 
+- *The House at the End of Time* (2013). 
 
 
