@@ -13,7 +13,7 @@ Fall 2024
 
 **Email:** cblack6-at-utk.edu   
 **Office:**  
-**Office Hours:** Tuesday, 1:30-3:30, or by appointment.
+**Office Hours:** Tuesday, 12:30-2:30, or by appointment.
 
 > "If you want to understand a place, ignore the boastful monuments and landmarks, and go straight to the haunted houses."
 > 
