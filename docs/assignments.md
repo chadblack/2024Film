@@ -27,11 +27,19 @@ We will watch the following films this semester.
 
 ### In-Class Writing (25%)
 
+Some classes during some weeks will start with a short in-class writing in response to readings or films. The lowest two scores will be dropped, and account for your acceptable number of absences. 
+
 ### Theory Paper (15%)
+
+Students will write a theoretical analysis of The Shining as a way of developing their theory of psychoanalysis and horror. 
 
 ### Individual/Group Project (25%)
 
+Students as either individuals or in groups will present on a film of their own choosing, analyzing that film with the approach we develop over the course of the semester. Instructions for this project are available [here](https://chadblack.net/2024Film/resources/Film%20Presentation%20Project/).
+
 ### Take-Home Final (25%)
+
+Students will write a take-home final paper due at our normally scheduled exam time, in response to a prompt provided by Dr. Black.
 
 ### Self Evaluation and Class Engagement (10%)
 
