@@ -1,7 +1,7 @@
 ---
 title: Latin American horror films
 ---
-This is an incomplete list of horror/thriller films from Latin America, and a good place to start for your [[370 Film/2024Film/docs/assignments|Final Assignment]].
+This is an incomplete list of horror/thriller films from Latin America, and a good place to start for your [Presentation Project](https://chadblack.net/2024Film/resources/Film%20Presentation%20Project/).
 
 ### Argentina
 
